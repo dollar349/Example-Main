@@ -1,0 +1,3 @@
+[submodule "SubComponent1"]
+	path = SubComponent1
+	url = https://github.com/dollar349/SubComponent1.git
